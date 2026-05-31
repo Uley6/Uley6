@@ -9,9 +9,9 @@
 - **Карточки товаров для продавцов на маркетплейсе
 - **Презентации сделанные с нуля с помощью Figma.
 
-## Контакты ✨
+## Мои контакты ✨
 - Email: ul.golovina@icloud.com
 - Telegram: @yazva_reh
   
-**Uley6/Uley6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
